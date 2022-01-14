@@ -1,0 +1,10 @@
+vs Code終端機 執行
+dotnet new -list
+可以得到 能建立專案的總類
+cd到要建立的地方 執行即可
+
+https://docs.microsoft.com/zh-tw/dotnet/core/tools/dotnet-add-package
+選擇套件
+dotnet add package Newtonsoft.Json
+dotnet list package
+dotnet remove package Newtonsoft.Json
